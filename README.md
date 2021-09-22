@@ -1,4 +1,4 @@
-# <div align="center">Hi, I am Praveen B 👋</div>  
+# <div align="center">Praveen B</div>  
 <h3 align="center">Final Year Undergraduate Student || Django Developer || Android Developer</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=praveenb7" alt="praveenb7" /> </p>
   
@@ -18,11 +18,11 @@
 </div>
 <br />
   
-### Languages & Tools I Use:
+### Programming Languages & Tools I Use:
 <p>
     <img src=https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white alt=python />
-    <img src=https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white alt=java />
-    <img src=https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white alt=django />
+    <img src=https://img.shields.io/badge/Java-fc7703?logo=java&logoColor=white alt=java />
+    <img src=https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white alt=django />
     <img src=https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white alt=flask />
     <img src=https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white alt=androidsdk />
     <img src=https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white alt=git />
@@ -34,7 +34,7 @@
     <img src=https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white alt=tensorflow />
     <img src=https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white alt=keras />
     <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white alt=vscode />
-    <img src=https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white alt=intellij />
+    <img src=https://img.shields.io/badge/IntelliJIDEA-57109e.svg?logo=intellij-idea&logoColor=white alt=intellij />
     <img src=https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white alt=androidstudio />
     <img src=https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white alt=jupyter />
 </p>
