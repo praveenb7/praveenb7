@@ -6,7 +6,7 @@
 
 - I’m currently working on **Backend Development, Android Development**.
 
-- Previously Worked as Junior ML Engineer at **Omdena**.
+- Former Junior ML Engineer at **Omdena**.
 
 - Currently looking for **SDE Full Time Roles**.
 
