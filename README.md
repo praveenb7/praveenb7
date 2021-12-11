@@ -1,10 +1,10 @@
 # <div align="center">Praveen B</div>  
-<h3 align="center">Final Year Undergraduate Student || Django Developer || Android Developer</h3>
+<h3 align="center">Final Year Undergraduate Student || Former Junior ML Engineer at Omdena</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=praveenb7" alt="praveenb7" /> </p>
   
 ### About Me:
 
-- I’m currently working on **Backend Development, Android Development**.
+- I’m currently working on **Backend Development** and **Android Development**.
 
 - Former Junior ML Engineer at **Omdena**.
 
@@ -29,6 +29,7 @@
     <img src=https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white alt=sqlite />
     <img src=https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white alt=html />
     <img src=https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white alt=css />
+    <img src=https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=323330 alt=javascript />
     <img src=https://img.shields.io/badge/Numpy-777BB4?logo=numpy&logoColor=white alt=numpy />
     <img src=https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white alt=pandas />
     <img src=https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white alt=tensorflow />
