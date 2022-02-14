@@ -1,14 +1,12 @@
 # <div align="center">Praveen B</div>  
-<h3 align="center">Final Year Undergraduate Student || Former Junior ML Engineer at Omdena</h3>
+<h3 align="center">Intern at Exotel || Final Year Undergraduate Student</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=praveenb7" alt="praveenb7" /> </p>
   
 ### About Me:
 
-- I’m currently working on **Backend Development** and **Android Development**.
+- I’m currently working as a Tech Intern at **Exotel**
 
 - Former Junior ML Engineer at **Omdena**.
-
-- Currently looking for **SDE Full Time Roles**.
 
 - Reach out to me via **praveen6312@gmail.com**
 
