@@ -1,6 +1,7 @@
 # <div align="center">Praveen B</div>
 
-<p> <img src="https://komarev.com/ghpvc/?username=praveenb7" alt="praveenb7" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=praveenb7" alt="praveenb7" /></p>
+
   
 ### About Me:
 
@@ -15,6 +16,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=praveenb7&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align="center" />
 </div>
 <br />
+
+### Social Profiles:
+<p>
+  
+<a href="https://linkedin.com/in/praveenb7">
+  <img align="center" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="praveenb7" width="80px" />
+</a>
+  
+</p>
   
 ### Programming Languages & Tools I Use:
 <p>
@@ -44,20 +54,4 @@
     <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white alt=vscode />
     <img src=https://img.shields.io/badge/IntelliJIDEA-57109e.svg?logo=intellij-idea&logoColor=white alt=intellij />
 </p>
-
-
-##
-
-<p align="center">
-  
-<a href="https://linkedin.com/in/praveenb7">
-  <img align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="praveenb7" width="30px" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/praveenb7/practice/">
-  <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" alt="praveenb7" width="30px" />
-</a>
-<a href="https://leetcode.com/praveenb7/">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="praveenb7" width="30px" />
-</a>
-  
-</p>
+<br/>
